@@ -7,4 +7,4 @@ Global Average Absolute Sea Level Change, 1880-2014 from the US Environmental Pr
 https://datahub.io/core/sea-level-rise
 
 ### Plot 
-<img src=https://cdn.discordapp.com/attachments/887360045304660038/906842659484758026/sea_level_plot.png width="250" title="sea level rise prediction"/><br>
+<img src=https://cdn.discordapp.com/attachments/887360045304660038/906842659484758026/sea_level_plot.png width="700" title="sea level rise prediction"/><br>
